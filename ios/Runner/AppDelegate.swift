@@ -11,3 +11,4 @@ import Flutter
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }
+#do'stlar fikirlar almashish uchun bu yerga tashrif buyuring        https://t.me/join_qilamiz
